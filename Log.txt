@@ -1,0 +1,106 @@
+Done @ JumpByte
+
+14-12-2016{
+	
+	What is NodeJS
+	What is Git
+	Simple response and request Server
+	
+	EventEmitter Class functions
+		-addListener
+		-removeListener
+		-on
+		-once
+		-removeAllListeners
+		-listenerCount
+		-event name was "connection"
+		-emit
+		
+	CallBack Event handling
+		-Blocking 
+		-Non-Blocking
+		-Synchronous CallBack
+		-Asynchronous Callback
+	
+	Event Looping
+	
+	Buffers
+		-Creation
+		-Writing
+		-Reading
+		-Comparision
+		-Concatenation
+		-Slicing
+		-Determining Length
+		-Converting to JSON
+}
+
+15-12-2016{
+
+	Streams
+		-Read
+		-Write 
+		-Piping 
+		-Chaining
+		-stdin
+	
+	Global
+		-process
+		-module
+		-buffer
+	File Operations
+		-Asynchronous
+		-Synchronous
+		-
+	Console
+	Process
+	HTTP
+		-Server 
+			-creation
+			-running page
+		-Client
+	Express
+		-Server
+		-Displaying text
+}
+
+16-12-2016{
+
+	Express
+		-webpages
+		-GET
+		-POST
+		-List users
+		-Cookie Management
+	Git 
+		-branching
+		-creating repository
+		-commit
+		-cloning repository
+		-initialization
+	REST
+		-Displaying files on browser
+		-Adding data 
+		-removing data
+		-displaying details
+}
+
+19-12-2016{
+
+	Packaging a JS File
+
+	MongoDB 
+		-Installation
+		-Creating DB.
+
+	Collection
+		-Create
+		-insert()
+		-find()
+		-drop()
+		-pretty()
+		-AND OR LT GT NE LTE GTE
+		-update()
+		-save()
+		-remove()
+}

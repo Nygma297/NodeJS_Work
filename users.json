@@ -1,0 +1,17 @@
+{
+	"user1" :{
+		"name" : "Chandler",
+		"Series" : "FRIENDS",
+		"id" : "1"
+	}
+	"user2" : {
+		"name" : "Charlie",
+		"Series" : "Two and a half men",
+		"id" : "2"
+	}
+	"user3"; {
+		"name" : "Jacob",
+		"Series" : "Brooklyn Nine Nine",
+		"id" : "3"	
+	}
+}
