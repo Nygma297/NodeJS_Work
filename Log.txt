@@ -104,3 +104,47 @@ Done @ JumpByte
 		-save()
 		-remove()
 }
+
+17-1-2017{
+
+	React
+		-constructor
+			-super() => to get the context
+	
+		-nesting props children
+	
+		-synthetic event system and normalization of events
+			-onclick
+			-oncopy
+			-onpaste
+			-ondoubleclick
+			-oncut
+	
+		-lifecycle methods
+			-mounting using render method
+			-unmounting at a particular node using reactDOM.unmountComponentAtNode()
+
+		-fetching from a particular page using json
+
+		-iteration
+			-var.map() with a unique key
+			-forEach
+			-Children.only
+
+		-filter method for searching
+
+		-toArray() for conversion of the iterated data to an array
+		- '...' operator to spread an array(ES6)
+
+		-react.children utilities
+			-Children.only for fetching only one child
+
+}
+
+18-1-2017{
+	React
+		-implementation
+			-props.children
+			-validation using propTypes
+			
+}
